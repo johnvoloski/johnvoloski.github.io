@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "johnvoloski",
-    "repositoryName": "johnvoloski.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"johnvoloski","repositoryName":"johnvoloski.github.io","branch":"master"},"site":{"title":"John's Blog","cover":"https://secure.gravatar.com/avatar/e85ba599414762ea86e1720394f6265f","postsPerPage":"10","url":"https://johnvoloski.github.io"},"socialnetwork":{"email":"johnvoloski@gmail.com","twitter":"https://twitter.com/johnvoloski","googleplus":"https://www.google.com/+JohnVoloski","linkedin":"https://br.linkedin.com/in/john-voloski-2312aa17","instagram":"https://www.instagram.com/johnvoloski/","github":"https://github.com/johnvoloski"},"theme":{"name":"Casper","url":"//johnvoloski.github.io/themes/Casper"}}
